@@ -5,6 +5,9 @@
 A small dark-themed desktop app for Windows. Paste a profile link, press **Download**, and the photos, videos, reels, stories and highlights are saved to a folder. Built on [Instaloader](https://instaloader.github.io/). The app has a built-in **TR / EN** language switch and a **?** help button.
 
 > Not affiliated with Instagram or Meta.
+<img width="752" height="629" alt="image" src="https://github.com/user-attachments/assets/20eb9537-d0b1-4981-bb86-fb41d3423203" />
+
+<img width="658" height="737" alt="image" src="https://github.com/user-attachments/assets/4c8b2197-edcc-4c90-99a6-227860faa354" />
 
 ## Features
 
